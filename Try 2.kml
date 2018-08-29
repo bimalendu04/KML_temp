@@ -9084,24 +9084,6 @@
           </coordinates>
         </LineString>
       </Placemark>
-      <Placemark>
-        <name>Bhubaneswar, Odisha</name>
-        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
-        <Point>
-          <coordinates>
-            85.8245487,20.2960611,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Point 1</name>
-        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
-        <Point>
-          <coordinates>
-            78.3035499,19.8743242,0
-          </coordinates>
-        </Point>
-      </Placemark>
     </Folder>
   </Document>
 </kml>
