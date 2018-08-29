@@ -31,7 +31,7 @@
       <name>Roll over this icon</name>
       <styleUrl>#exampleStyleMap</styleUrl>
       <Point>
-        <coordinates>20.2960587,85.82453980000003,45</coordinates>
+        <coordinates>85.82453980000003,20.2960587,45</coordinates>
       </Point>
     </Placemark>
   </Document>
