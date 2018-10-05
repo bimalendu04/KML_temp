@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.0">
+	<Folder>
+		<name>Surge5m IIF 2</name>
+		<open>1</open>
+		<GroundOverlay>
+			<name>Surge5m IIF 2</name>
+			<drawOrder>1</drawOrder>
+			<Icon>
+				<href>Surge5m IIF 2.tif</href>
+			</Icon>
+			<LatLonBox>
+				<north>22.663944933872664</north>
+				<south>22.428677156775823</south>
+				<east>88.460163458128946</east>
+				<west>88.219430692017085</west>
+				<rotation>0</rotation>
+			</LatLonBox>
+		</GroundOverlay>
+	</Folder>
+</kml>
